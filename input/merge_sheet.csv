@@ -1,0 +1,5 @@
+"splice_num";"Name";"Hole";"core_TOP";"Depth_CSF-A_(m)_TOP";"Foam/Cap";"Vertical offset";"Depth_CCSF-A_(m)_TOP";"splice_TOP";"Name";"Hole";"core_BOTTOM";"Depth_CSF-A_(m)_BOTTOM";"Depth_CCSF-A_(m)_BOTTOM";"splice_BOTTOM";"comments"
+0;"1001-1-A-1-1";"A";40;0.04;-0.04;0.095;0;0.135;"1001_1_A_1_1";"A";1000;1;0.96;1.095;"tied to 2016 core (which represents mudline, as we missed it)"
+1;"1001-1-A-1-2";"A";5;1.005;-0.045;0.0900000000000001;0.96;1.095;"1001_1_A_1_2";"A";300;1.3;1.255;1.39;
+2;"1001-1-B-1-1";"B";385;1.385;-0.04;0.00500000000000012;1.345;1.39;"1001_1_B_1_1";"B";1000;2;1.96;2.005;
+3;"1001-1-B-1-2";"B";5;2.005;-0.045;0;1.96;2.005;"1001_1_B_1_2";"B";925;2.925;2.88;2.925;
