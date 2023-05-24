@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/644778381.svg)](https://zenodo.org/badge/latestdoi/644778381)
+
 # splice
 
 A simple Jupyter Notebook to visualize the splice of a composite core of long cores, based on a logic table (`merge_sheet`)
